@@ -1,4 +1,4 @@
-import random
+# import random
 # # print("enter a number to check")
 # h = int(input())
 # # if(h>10):
@@ -37,3 +37,16 @@ import random
    
 # for x in range (2,22,2):
 #     print(x)
+# def myName ():
+#     print("shahamansoor")
+
+
+# myName()
+
+# def addNums (a,b):
+#     return a + b
+# result = addNums(5,5)
+# print(result)
+
+for x in range(100):
+    print(x)
