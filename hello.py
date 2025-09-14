@@ -1,4 +1,4 @@
-# import random
+import random
 # # print("enter a number to check")
 # h = int(input())
 # # if(h>10):
@@ -23,6 +23,7 @@
        
 # rands = random.randint(1,20)  
 
+
 # while(True):
 #     inps = int(input())
    
@@ -43,10 +44,28 @@
 
 # myName()
 
+
 # def addNums (a,b):
 #     return a + b
 # result = addNums(5,5)
 # print(result)
 
-for x in range(100):
+# for x in range(100):
+#     print(x)
+
+# for x in range(10,60,10):
+#     print(x)
+
+
+# rand = random.randint(1,20)
+
+# while(True):
+#     ints = int(input())
+#     if(ints>rand):
+#         print("graeter")
+#     elif(ints<rand):
+#         print("lower")
+#     else:
+#         print("same")
+for x in range(30):
     print(x)
